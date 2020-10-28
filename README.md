@@ -1,0 +1,2 @@
+# History-of-AI
+Crevier, Daniel (1993), AI: The Tumultuous Search for Artificial Intelligence, New York, NY: BasicBooks, ISBN 0-465-02997-3. McCorduck, Pamela (2004), Machines Who Think (2nd ed.), Natick, MA: A. K. Peters, Ltd., ISBN 1-56881-205-1. Newquist, HP (1994). The Brain Makers: Genius, Ego, And Greed In The Quest For Machines That Think. New York: Macmillan/SAMS. ISBN 978-0-672-30412-5. Nilsson, Nils (2009). The Quest for Artificial Intelligence: A History of Ideas and Achievements. New York: Cambridge University Press. ISBN 978-0-521-12293-1.
